@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 React out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">Suraj Darade</a>**
+- 👨‍💻 React out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
 - 😄 Pronouns: He/His
 
