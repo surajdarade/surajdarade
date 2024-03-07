@@ -3,9 +3,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/surajdarade/" target="_blank"> Suraj Darade </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
+- 🌱 Learning AIML 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+- 💬 Ask me about **Web Development, C++, DBMS, DSA, System Design**
 
 - 👨‍💻 React out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
