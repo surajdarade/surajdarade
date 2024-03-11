@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development, C++, DBMS, DSA, System Design**
 
-- 👨‍💻 React out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
+- 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
 - 😄 Pronouns: He/His
 
