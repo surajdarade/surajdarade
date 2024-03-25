@@ -9,7 +9,7 @@
 
 - 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
-- 😄 Pronouns: He / His
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
