@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajdarade&label=Profile%20views&color=0e75b6&style=flat" alt="surajdarade" /> </p>
 - 🌱 Learning AIML, Implementing MERN(TS) 🚀
 
-- 💬 Ask me about **Web Development, C++, DBMS, DSA, System Design**
+- 💬 Ask me about **Web Development, C++, OOP, DBMS, DSA, System Design**
 
 - 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
