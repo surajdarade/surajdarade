@@ -60,11 +60,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=surajdarade&show_icons=true&theme=dark&locale=en" alt="surajdarade" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajdarade&show_icons=true&theme=dark&locale=en&layout=compact" alt="surajdarade" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=surajdarade&show_icons=true&theme=light&locale=en" alt="surajdarade" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajdarade&show_icons=true&theme=light&locale=en&layout=compact" alt="surajdarade" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajdarade&theme=dark" alt="surajdarade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajdarade&theme=light" alt="surajdarade" /></p>
   </div>
