@@ -6,7 +6,7 @@
 
 - 🌱 Learning AIML, Implementing MERN(TS) 🚀
 
-- 💬 Ask me about **C++, OOP, DBMS, DSA, System Design, OS, CN**
+- 💬 Ask me about **System Design, OOP, DBMS, DSA, OS, CN**
 
 - 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**
 
