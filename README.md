@@ -16,7 +16,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/surajdarade/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajdarade" height="30" width="40" /></a>
   <a href="https://instagram.com/surajdesync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajdesync" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/surajdarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajdarade" height="30" width="40" /></a>
+<!--   <a href="https://www.leetcode.com/surajdarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajdarade" height="30" width="40" /></a> -->
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
