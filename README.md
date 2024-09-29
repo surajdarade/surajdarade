@@ -4,6 +4,10 @@
   
 
 ###### <div align="center"><h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/surajdarade/" target="_blank"> Suraj Darade 😼</a></h1></div>  
+
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=surajdarade&&style=flat-square" align="center" />
+</div>  
   
 
 - ##### 🌱 Loving System Design! Strengthening Development with Next.js and MERN Stack, Powered by TypeScript! 🚀  
@@ -102,17 +106,3 @@
   </div>
   
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=surajdarade&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
