@@ -13,7 +13,7 @@
 - ##### 🌱 Loving System Design! Strengthening Development with Next.js and MERN Stack, Powered by TypeScript! 🚀  
   
 
-- ##### 💬 Ask me about **System Design, OOP, Operating System, DBMS, WORDpress**  
+- ##### 💬 Ask me about **System Design, OOP, Operating System, DBMS, WordPress**  
   
 
 - ##### 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**  
