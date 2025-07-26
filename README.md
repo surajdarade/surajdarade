@@ -10,10 +10,10 @@
 </div>  
   
 
-- ##### 🌱 Loving System Design! Strengthening Development with Next.js and MERN Stack, Powered by TypeScript! 🚀  
+- ##### 🌱 Loving System Design! Strengthening Development with .NET, Angular, Next.js and MERN Stack, Powered by TypeScript! 🚀  
   
 
-- ##### 💬 Ask me about **System Design, OOP, Operating System, DBMS**  
+- ##### 💬 Ask me about **System Design, OOPs, OS, DBMS, CN**  
   
 
 - ##### 👨‍💻 Reach out to me : **<a href="mailto:daradesuraj05@gmail.com" target="_blank">daradesuraj05@gmail.com</a>**  
